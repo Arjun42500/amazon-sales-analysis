@@ -130,7 +130,7 @@ This provides an indication of customer engagement and product popularity.
 | 🔄 Power Query | Data cleaning & transformation |
 | 🧮 DAX | Measures, calculations & time intelligence |
 | 📊 Data Modelling | Building relationships and analytical model |
-| 📁 CSV | Data source |
+| 📁 Excel | Data source |
 | 🐙 GitHub | Project version control & portfolio |
 
 ---
@@ -140,7 +140,7 @@ This provides an indication of customer engagement and product popularity.
 This project covers several important Power BI concepts:
 
 ### 🔹 Data Preparation
-- Connecting to CSV files
+- Connecting to Excel files
 - Data cleaning
 - Data transformation
 - Data processing
