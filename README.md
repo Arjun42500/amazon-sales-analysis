@@ -255,7 +255,7 @@ Amazon-Sales-Analysis-PowerBI/
    ```bash
    git clone https://github.com/<Arjun42500>/amazon-sales-dashboard.git
    ```
-2. Open `Amazon Sales Analysis.pbix` in **Power BI Desktop**
+2. Open `Amazon_sales.pbix` in **Power BI Desktop**
 3. Use the **Product Category** and **Quarter** slicers to explore the data interactively
 
 ---
