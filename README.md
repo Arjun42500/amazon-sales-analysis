@@ -263,7 +263,9 @@ Amazon-Sales-Analysis-PowerBI/
 ## 👤 Author
 
 **Nithyanandham**
+
 Aspiring Data Analyst | Data Scientist
+
 📫 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/arjun1425/) | Explore more projects on [GitHub](https://github.com/Arjun42500)
 
 ---
