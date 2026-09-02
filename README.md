@@ -39,7 +39,8 @@ The primary objective of this project is to transform raw Amazon sales data into
 
 # 🖥️ Dashboard Preview
 
-![Amazon Sales Dashboard](Dashboard/Amazon-Sales-Dashboard.png)
+![Amazon Sales Dashboard](<img width="1375" height="769" alt="Amazon-sales-Dashboard" src="https://github.com/user-attachments/assets/3b16b576-9d52-4dfa-b45a-1ff20c67eef5" />
+)
 
 ---
 
